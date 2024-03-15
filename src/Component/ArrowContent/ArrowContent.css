@@ -1,0 +1,15 @@
+.arrow-body{
+  width: 415px;
+  height: 26px;
+  padding: 6px 12px 6px 12px;
+  margin: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow-text {
+  display: inline-block;
+  width: 363px;
+  height: 14px;
+}

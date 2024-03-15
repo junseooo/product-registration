@@ -1,0 +1,21 @@
+.print-body {
+  width: 239px;
+  height: 24px;
+  padding: 6px 5px 6px 5px;
+  margin: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.print-text {
+  width: 229px;
+  height: 13px;
+  display: inline-block;
+
+  /* font-family: Noto Sans KR; */
+  font-size: 9px;
+  font-weight: 500;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+}
